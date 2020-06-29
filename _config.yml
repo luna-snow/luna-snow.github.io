@@ -16,9 +16,9 @@ defaults:
     values:
       title: luna-snow's blog
 
-description: Stylish Jekyll Theme
-author:
-  name: 
+description:
+author: luna-snow
+  name: luna-snow
   email: luna-snow@hanyang.ac.kr
   github: luna-snow
   twitter:
