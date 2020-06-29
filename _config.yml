@@ -12,13 +12,13 @@ title: luna-snow's blog
 defaults:
   -
     scope:
-      path: "http://luna-snow.github.io" # empty string for all files
+      path: "" # empty string for all files
     values:
       title: luna-snow's blog
 
 description: Stylish Jekyll Theme
-author: luna-snow
-  name: luna-snow
+author:
+  name: 
   email: luna-snow@hanyang.ac.kr
   github: luna-snow
   twitter:
