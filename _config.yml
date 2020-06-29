@@ -17,10 +17,10 @@ defaults:
       title: luna-snow's blog
 
 description:
-author: luna-snow
-  name: 
+author:
+  name: luna-snow
   email: luna-snow@hanyang.ac.kr
-  github: luna-snow
+  github: github.com/luna-snow
   twitter:
   pinterest:
   linkedin:
