@@ -5,27 +5,27 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: luna-snow
+google_analytics: luna-snow
+title: luna-snow's blog
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: luna-snow's blog
 
 description: Stylish Jekyll Theme
 author:
   name: luna-snow
   email: luna-snow@hanyang.ac.kr
   github: luna-snow
-  twitter: 
-  pinterest: 
-  linkedin: 
+  twitter:
+  pinterest:
+  linkedin:
   bio: Believe in the journey
-  email_md5: 
+  email_md5:
 
 rss_path: feed.xml
 categories_path: categories.html
