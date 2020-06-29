@@ -12,7 +12,7 @@ title: luna-snow's blog
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path: "http://luna-snow.github.io" # empty string for all files
     values:
       title: luna-snow's blog
 
